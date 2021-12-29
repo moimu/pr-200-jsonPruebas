@@ -42,6 +42,6 @@ echo'{
             "magnitud": "densidad",
             "valor": "100",
             "cliente": null
-        },
+        }
     ]
 } ';

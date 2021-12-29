@@ -83,7 +83,7 @@ echo '{
             "magnitud": "densidad",
             "valor": "28",
             "cliente": null
-        },
+        }
 
     ]
 } ';

@@ -62,6 +62,6 @@ echo'{
             "magnitud": "fidelidad",
             "valor": "7",
             "cliente": "SSFR787X"
-        },
+        }
     ]
 } ';
