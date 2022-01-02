@@ -56,12 +56,22 @@ echo '{
         {
             "nombreZona": "Z100",
             "tituloZona": "Sevilla, puerto de Indias",
-            "nombreArea": "B101",
-            "tituloArea": "La venta del Puerto",
+            "nombreArea": null,
+            "tituloArea": null,
             "fecha": "2021-11-25 15:30",
             "magnitud": "fidelidad",
             "valor": "2",
             "cliente": "45FFTY45"
+        },
+        {
+            "nombreZona": "Z100",
+            "tituloZona": "Sevilla, puerto de Indias",
+            "nombreArea": null,
+            "tituloArea": null,
+            "fecha": "2021-11-25 15:30",
+            "magnitud": "fidelidad",
+            "valor": "10",
+            "cliente": "888888FF"
         }
     ]
 }';

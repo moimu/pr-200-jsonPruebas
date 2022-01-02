@@ -57,12 +57,22 @@ echo'{
         {
             "nombreZona": "Z200",
             "tituloZona": "Puerta de América",
-            "nombreArea": "B201",
-            "tituloArea": "La Cabaña Criolla",
+            "nombreArea": null,
+            "tituloArea": null,
             "fecha": "2021-11-25 15:30",
             "magnitud": "fidelidad",
             "valor": "4",
             "cliente": "SD44RT55"
+        },
+        {
+            "nombreZona": "Z200",
+            "tituloZona": "Puerta de América",
+            "nombreArea": null,
+            "tituloArea": null,
+            "fecha": "2021-11-25 15:30",
+            "magnitud": "fidelidad",
+            "valor": "7",
+            "cliente": "777777FF"
         }
     ]
 } ';
